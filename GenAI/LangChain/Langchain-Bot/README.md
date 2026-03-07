@@ -29,10 +29,10 @@ Langchain-Bot/
    ```
 3. **Create a `.env` file** in `LangChain/Langchain-Bot/`:
    ```env
-   GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
+   GOOGLE_API_KEY=**
    LANGSMITH_TRACING=true
    LANGSMITH_ENDPOINT=https://api.smith.langchain.com
-   LANGSMITH_API_KEY=YOUR_LANGSMITH_API_KEY
+   LANGSMITH_API_KEY=**
    LANGSMITH_PROJECT=KonaGPT
    ```
 
